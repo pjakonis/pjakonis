@@ -18,4 +18,4 @@ Outside of technology, I have knowledge in music and sound design. It's where my
 - I'm a mac user since 2005.
 
 #### 📫 Let's Connect
-I'm always whant to learn, collaborate, and connect. Feel free to reach out [LinkedIn](https://www.linkedin.com/in/paulius-jakonis-284366234/)
+I'm always whant to learn, collaborate, and connect. Feel free to reach out [LinkedIn](https://www.linkedin.com/in/paulius-jakonis/)
