@@ -10,7 +10,7 @@ Outside of technology, I have knowledge in music and sound design. It's where my
 
 #### 📦 Toolbox
 - **Programming Languages**: Python, C++, HTML, CSS, JavaScript.
-- **Interests**: IoT, Robotics, Game Development, Music, Sound Design.
+- **Interests**: IoT, Linux, Robotics, Game Development, Music, Sound Design.
 
 #### 🌟 Fun Facts
 - My favourite TV show is Severance.
